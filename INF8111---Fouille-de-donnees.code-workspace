@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "tp1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "INF8111---Fouille-de-donnees"
+	}
+}
