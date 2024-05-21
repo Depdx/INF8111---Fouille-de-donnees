@@ -1,0 +1,675 @@
+﻿Hero_id;Hero_name;Movie;Affiliation
+0;Aaron Davis;Spider-Man: Homecoming;Unnafiliated
+1;Abomination;The Incredible Hulk;Unnafiliated
+1;Abomination;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+2;Abraham;Spider-Man: Homecoming;Unnafiliated
+3;Abraham Erskine;Captain America: The First Avenger;Unnafiliated
+4;Agent 13;Captain America: The Winter Soldier;Unnafiliated
+5;Ajak;Eternals;Unnafiliated
+6;Akihiko;Avengers: Endgame;Unnafiliated
+7;Aldrich Killian;Iron Man 3;A.I.M.
+8;Aleta Ogord;Guardians of the Galaxy Vol. 2;Unnafiliated
+9;Alexander Pierce;Captain America: The Winter Soldier;Unnafiliated
+9;Alexander Pierce;Avengers: Endgame;Unnafiliated
+10;America Chavez;Doctor Strange in the Multiverse of Madness;Unnafiliated
+11;Ancient One;Doctor Strange;Unnafiliated
+11;Ancient One;Avengers: Endgame;Unnafiliated
+12;Aneka;Black Panther: Wakanda Forever;Unnafiliated
+13;Annie Marie Hoag;Spider-Man: Homecoming;Unnafiliated
+14;Ant-Man;Ant-Man;Avengers
+14;Ant-Man;Captain America: Civil War;Avengers
+14;Ant-Man;Ant-Man and the Wasp;Avengers
+14;Ant-Man;Avengers: Endgame;Avengers
+14;Ant-Man;Ant-Man and the Wasp: Quantumania;Avengers
+15;Anton Vanko;Iron Man 2;Unnafiliated
+16;Arishem;Eternals;Unnafiliated
+17;Arnim Zola;Captain America: The First Avenger;Unnafiliated
+17;Arnim Zola;Captain America: The Winter Soldier;Unnafiliated
+18;Att-Lass;Captain Marvel;Starforce
+19;Attuma;Black Panther: Wakanda Forever;Unnafiliated
+20;Axl Heimdallson;Thor: Love and Thunder;Unnafiliated
+21;Ayesha;Guardians of the Galaxy Vol. 2;Unnafiliated
+22;Ayo;Captain America: Civil War;Dora Milaje
+22;Ayo;Black Panther;Dora Milaje
+22;Ayo;Avengers: Infinity War;Dora Milaje
+22;Ayo;Black Panther: Wakanda Forever;Dora Milaje
+23;Bast;Thor: Love and Thunder;Unnafiliated
+24;Bereet;Guardians of the Galaxy;Unnafiliated
+25;Beth;Marvel’s The Avengers;Unnafiliated
+26;Betty Brant;Spider-Man: Homecoming;Unnafiliated
+26;Betty Brant;Spider-Man: Far From Home;Unnafiliated
+26;Betty Brant;Spider-Man: No Way Home;Unnafiliated
+27;Betty Ross;The Incredible Hulk;Unnafiliated
+28;Bill Foster;Ant-Man and the Wasp;Unnafiliated
+29;Billy Maximoff;Doctor Strange in the Multiverse of Madness;Unnafiliated
+30;Black Bolt;Doctor Strange in the Multiverse of Madness;Unnafiliated
+31;Black Panther;Captain America: Civil War;Unnafiliated
+31;Black Panther;Black Panther;Unnafiliated
+31;Black Panther;Avengers: Infinity War;Unnafiliated
+31;Black Panther;Avengers: Endgame;Unnafiliated
+31;Black Panther;Black Panther: Wakanda Forever;Unnafiliated
+32;Black Widow;Iron Man 2;Avengers
+32;Black Widow;Captain America: The Winter Soldier;Avengers
+32;Black Widow;Avengers: Age of Ultron;Avengers
+32;Black Widow;Captain America: Civil War;Avengers
+32;Black Widow;Thor: Ragnarok;Avengers
+32;Black Widow;Avengers: Infinity War;Avengers
+32;Black Widow;Captain Marvel;Avengers
+32;Black Widow;Avengers: Endgame;Avengers
+32;Black Widow;Black Widow;Avengers
+32;Black Widow;Shang-Chi and the Legend of the Ten Rings;Avengers
+33;Blade;Eternals;Unnafiliated
+34;Bor;Thor: The Dark World;Unnafiliated
+35;Brad Davis;Spider-Man: Far From Home;Unnafiliated
+36;Brahl;Guardians of the Galaxy Vol. 2;Unnafiliated
+37;Brandt;Captain America: The First Avenger;Unnafiliated
+38;Brock Rumlow;Captain America: The Winter Soldier;Unnafiliated
+38;Brock Rumlow;Captain America: Civil War;Unnafiliated
+38;Brock Rumlow;Avengers: Endgame;Unnafiliated
+39;Bron-Char;Captain Marvel;Starforce
+40;Cameron Klein;Captain America: The Winter Soldier;Unnafiliated
+41;Captain America;Captain America: The First Avenger;Avengers
+41;Captain America;Thor: The Dark World;Avengers
+41;Captain America;Captain America: The Winter Soldier;Avengers
+41;Captain America;Avengers: Age of Ultron;Avengers
+41;Captain America;Ant-Man;Avengers
+41;Captain America;Captain America: Civil War;Avengers
+41;Captain America;Spider-Man: Homecoming;Avengers
+41;Captain America;Avengers: Infinity War;Avengers
+41;Captain America;Captain Marvel;Avengers
+41;Captain America;Avengers: Endgame;Avengers
+42;Peggy Carter;Doctor Strange in the Multiverse of Madness;Guardians of the Multiverse
+43;Captain Marvel;Captain Marvel;Avengers
+43;Captain Marvel;Avengers: Endgame;Avengers
+43;Captain Marvel;Shang-Chi and the Legend of the Ten Rings;Avengers
+43;Captain Marvel;Doctor Strange in the Multiverse of Madness;Avengers
+44;Carina;Thor: The Dark World;Unnafiliated
+45;Cassie Lang;Ant-Man;Unnafiliated
+45;Cassie Lang;Ant-Man and the Wasp;Unnafiliated
+45;Cassie Lang;Avengers: Endgame;Unnafiliated
+45;Cassie Lang;Ant-Man and the Wasp: Quantumania;Unnafiliated
+46;Centurion;Ant-Man and the Wasp: Quantumania;Unnafiliated
+47;Charles;Spider-Man: Homecoming;Unnafiliated
+48;Charles Xavier;Doctor Strange in the Multiverse of Madness;Unnafiliated
+49;Charlie-27;Guardians of the Galaxy Vol. 2;Unnafiliated
+50;Chess Roberts;Iron Man 2;Unnafiliated
+51;Chester Phillips;Captain America: The First Avenger;Unnafiliated
+52;Christine Everhart;Iron Man;Unnafiliated
+52;Christine Everhart;Iron Man 2;Unnafiliated
+53;Christine Palmer;Doctor Strange;Unnafiliated
+53;Christine Palmer;Doctor Strange in the Multiverse of Madness;Unnafiliated
+54;Cindy;Spider-Man: Homecoming;Unnafiliated
+54;Cindy;Avengers: Infinity War;Unnafiliated
+55;Clea;Doctor Strange in the Multiverse of Madness;Unnafiliated
+56;Coach Wilson;Spider-Man: Homecoming;Unnafiliated
+56;Coach Wilson;Spider-Man: No Way Home;Unnafiliated
+57;Cooper Barton;Avengers: Age of Ultron;Unnafiliated
+57;Cooper Barton;Avengers: Endgame;Unnafiliated
+58;Corvus Glaive;Avengers: Infinity War;Children of Thanos
+58;Corvus Glaive;Avengers: Endgame;Children of Thanos
+59;Cosmo the Spacedog;Guardians of the Galaxy;Unnafiliated
+59;Cosmo the Spacedog;Guardians of the Galaxy Vol. 2;Unnafiliated
+60;Council of Kangs;Ant-Man and the Wasp: Quantumania;Unnafiliated
+61;Cull Obsidian;Avengers: Infinity War;Children of Thanos
+61;Cull Obsidian;Avengers: Endgame;Children of Thanos
+62;Dale;Ant-Man;Unnafiliated
+62;Dale;Ant-Man and the Wasp: Quantumania;Unnafiliated
+63;Dane Whitman;Eternals;Unnafiliated
+64;Daniel Drumm;Doctor Strange;Unnafiliated
+65;Darcy Lewis;Thor;Unnafiliated
+65;Darcy Lewis;Thor: The Dark World;Unnafiliated
+65;Darcy Lewis;Thor: Love and Thunder;Unnafiliated
+66;Darren Cross M.O.D.O.K.;Ant-Man and the Wasp: Quantumania;Unnafiliated
+67;Darryl;Thor: Love and Thunder;Unnafiliated
+68;Dave;Ant-Man;Unnafiliated
+68;Dave;Ant-Man and the Wasp;Unnafiliated
+69;Dean of MIT;Captain America: Civil War;Unnafiliated
+70;Death Dealer;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+71;Defender Strange;Doctor Strange in the Multiverse of Madness;Unnafiliated
+72;Dimitri;Spider-Man: Far From Home;Unnafiliated
+73;Dionysus;Thor: Love and Thunder;Unnafiliated
+74;Doctor Octopus;Spider-Man: No Way Home;Unnafiliated
+75;Doris Toomes;Spider-Man: Homecoming;Unnafiliated
+76;Dormammu;Doctor Strange;Unnafiliated
+77;Drax the Destroyer;Guardians of the Galaxy;Guardians of the Galaxy
+77;Drax the Destroyer;Guardians of the Galaxy Vol. 2;Guardians of the Galaxy
+77;Drax the Destroyer;Avengers: Infinity War;Guardians of the Galaxy
+77;Drax the Destroyer;Avengers: Endgame;Guardians of the Galaxy
+77;Drax the Destroyer;Thor: Love and Thunder;Guardians of the Galaxy
+78;Dreykov;Black Widow;Unnafiliated
+79;Druig;Eternals;Unnafiliated
+80;E.D.I.T.H.;Spider-Man: Far From Home;Unnafiliated
+80;E.D.I.T.H.;Spider-Man: No Way Home;Unnafiliated
+81;Ebony Maw;Avengers: Infinity War;Children of Thanos
+81;Ebony Maw;Avengers: Endgame;Children of Thanos
+82;Ego;Guardians of the Galaxy Vol. 2;Unnafiliated
+83;Eir;Thor: The Dark World;Unnafiliated
+84;Eitri;Avengers: Infinity War;Unnafiliated
+85;Electro;Spider-Man: No Way Home;Unnafiliated
+86;Elihas Starr;Ant-Man and the Wasp;Unnafiliated
+87;Ellen Brandt;Iron Man 3;Unnafiliated
+88;Eric Savin;Iron Man 3;Unnafiliated
+89;Erik Selvig;Thor;Unnafiliated
+89;Erik Selvig;Thor: The Dark World;Unnafiliated
+89;Erik Selvig;Avengers: Age of Ultron;Unnafiliated
+89;Erik Selvig;Thor: Love and Thunder;Unnafiliated
+90;Eugene “Flash” Thompson;Spider-Man: Homecoming;Unnafiliated
+90;Eugene “Flash” Thompson;Spider-Man: Far From Home;Unnafiliated
+90;Eugene “Flash” Thompson;Spider-Man: No Way Home;Unnafiliated
+91;Everett K. Ross;Captain America: Civil War;Unnafiliated
+91;Everett K. Ross;Black Panther;Unnafiliated
+91;Everett K. Ross;Black Panther: Wakanda Forever;Unnafiliated
+92;F.R.I.D.A.Y.;Avengers: Age of Ultron;Unnafiliated
+92;F.R.I.D.A.Y.;Captain America: Civil War;Unnafiliated
+92;F.R.I.D.A.Y.;Spider-Man: Homecoming;Unnafiliated
+92;F.R.I.D.A.Y.;Avengers: Infinity War;Unnafiliated
+92;F.R.I.D.A.Y.;Avengers: Endgame;Unnafiliated
+93;Falcon;Captain America: The Winter Soldier;Avengers
+93;Falcon;Captain America: Civil War;Avengers
+93;Falcon;Avengers: Infinity War;Avengers
+93;Falcon;Avengers: Endgame;Avengers
+94;Fandral;Thor;Warriors Three
+94;Fandral;Thor: The Dark World;Warriors Three
+94;Fandral;Thor: Ragnarok;Warriors Three
+94;Fandral;Thor: Love and Thunder;Warriors Three
+95;Foster;Spider-Man: Homecoming;Unnafiliated
+95;Foster;Spider-Man: No Way Home;Unnafiliated
+96;Frigga;Thor;Unnafiliated
+96;Frigga;Thor: The Dark World;Unnafiliated
+96;Frigga;Avengers: Endgame;Unnafiliated
+96;Frigga;Thor: Love and Thunder;Unnafiliated
+97;Gabe Jones;Captain America: The First Avenger;Howling Commandos
+98;Gale;Ant-Man;Unnafiliated
+99;Gamora;Guardians of the Galaxy;Children of Thanos
+99;Gamora;Guardians of the Galaxy Vol. 2;Children of Thanos
+99;Gamora;Avengers: Infinity War;Children of Thanos
+99;Gamora;Avengers: Endgame;Children of Thanos
+100;Garthan Saal;Guardians of the Galaxy;Unnafiliated
+101;Gef the Ravager;Guardians of the Galaxy Vol. 2;Unnafiliated
+102;Georges Batroc;Captain America: The Winter Soldier;Unnafiliated
+103;Georgi Luchkov;Marvel’s The Avengers;Unnafiliated
+104;Ghost;Ant-Man and the Wasp;Unnafiliated
+105;Gideon Malick;Marvel’s The Avengers;Unnafiliated
+106;Gilgamesh;Eternals;Unnafiliated
+107;Gilmore Hodge;Captain America: The First Avenger;Unnafiliated
+108;Gorr the God Butcher;Thor: Love and Thunder;Unnafiliated
+109;Graham;Black Panther: Wakanda Forever;Unnafiliated
+110;Grandmaster;Thor: Ragnarok;Unnafiliated
+111;Grandpa Quill;Guardians of the Galaxy;Unnafiliated
+111;Grandpa Quill;Guardians of the Galaxy Vol. 2;Unnafiliated
+112;Green Goblin;Spider-Man: No Way Home;Unnafiliated
+113;Griot;Black Panther;Unnafiliated
+113;Griot;Black Panther: Wakanda Forever;Unnafiliated
+114;Groot;Guardians of the Galaxy;Guardians of the Galaxy
+114;Groot;Guardians of the Galaxy Vol. 2;Guardians of the Galaxy
+114;Groot;Avengers: Infinity War;Guardians of the Galaxy
+114;Groot;Avengers: Endgame;Guardians of the Galaxy
+114;Groot;Thor: Love and Thunder;Guardians of the Galaxy
+115;Guang Bo;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+116;Half-Nut;Guardians of the Galaxy Vol. 2;Unnafiliated
+117;Hamir;Doctor Strange;Unnafiliated
+117;Hamir;Doctor Strange in the Multiverse of Madness;Unnafiliated
+118;Hank Pym;Ant-Man and the Wasp;Unnafiliated
+118;Hank Pym;Avengers: Endgame;Unnafiliated
+118;Hank Pym;Ant-Man and the Wasp: Quantumania;Unnafiliated
+119;Harley Keener;Iron Man 3;Unnafiliated
+119;Harley Keener;Avengers: Endgame;Unnafiliated
+120;"Harold ""Happy"" Hogan";Iron Man;Unnafiliated
+120;"Harold ""Happy"" Hogan";Iron Man 2;Unnafiliated
+120;"Harold ""Happy"" Hogan";Iron Man 3;Unnafiliated
+120;"Harold ""Happy"" Hogan";Spider-Man: Homecoming;Unnafiliated
+120;"Harold ""Happy"" Hogan";Avengers: Endgame;Unnafiliated
+120;"Harold ""Happy"" Hogan";Spider-Man: Far From Home;Unnafiliated
+120;"Harold ""Happy"" Hogan";Spider-Man: No Way Home;Unnafiliated
+121;Hawkeye;Thor;Avengers
+121;Hawkeye;Avengers: Age of Ultron;Avengers
+121;Hawkeye;Captain America: Civil War;Avengers
+121;Hawkeye;Avengers: Endgame;Avengers
+121;Hawkeye;Black Widow;Avengers
+122;Hawley;Marvel’s The Avengers;Unnafiliated
+122;Hawley;Captain America: The Winter Soldier;Unnafiliated
+123;Heimdall;Thor;Unnafiliated
+123;Heimdall;Thor: The Dark World;Unnafiliated
+123;Heimdall;Avengers: Age of Ultron;Unnafiliated
+123;Heimdall;Thor: Ragnarok;Unnafiliated
+123;Heimdall;Avengers: Infinity War;Unnafiliated
+123;Heimdall;Thor: Love and Thunder;Unnafiliated
+124;Heinz Kruger;Captain America: The First Avenger;Unnafiliated
+125;Hela;Thor: Ragnarok;Unnafiliated
+126;Helen Cho;Avengers: Age of Ultron;Unnafiliated
+127;Helmut Zemo;Captain America: Civil War;Unnafiliated
+128;Hercules;Thor: Love and Thunder;Unnafiliated
+129;Ho Yinsen;Iron Man;Unnafiliated
+129;Ho Yinsen;Iron Man 3;Unnafiliated
+130;Hogun;Thor;Warriors Three
+130;Hogun;Thor: The Dark World;Warriors Three
+130;Hogun;Thor: Ragnarok;Warriors Three
+130;Hogun;Thor: Love and Thunder;Warriors Three
+131;Hope van Dyne;Ant-Man;Unnafiliated
+132;Howard Stark;Iron Man;Unnafiliated
+132;Howard Stark;Iron Man 2;Unnafiliated
+132;Howard Stark;Captain America: The First Avenger;Unnafiliated
+132;Howard Stark;Ant-Man;Unnafiliated
+132;Howard Stark;Captain America: Civil War;Unnafiliated
+132;Howard Stark;Avengers: Endgame;Unnafiliated
+133;Howard the Duck;Guardians of the Galaxy;Unnafiliated
+133;Howard the Duck;Guardians of the Galaxy Vol. 2;Unnafiliated
+134;Hulk;The Incredible Hulk;Avengers
+134;Hulk;Iron Man 3;Avengers
+134;Hulk;Avengers: Age of Ultron;Avengers
+134;Hulk;Thor: Ragnarok;Avengers
+134;Hulk;Avengers: Infinity War;Avengers
+134;Hulk;Captain Marvel;Avengers
+134;Hulk;Avengers: Endgame;Avengers
+134;Hulk;Shang-Chi and the Legend of the Ten Rings;Avengers
+135;Ian Boothby;Thor: The Dark World;Unnafiliated
+136;Ikaris;Eternals;Unnafiliated
+137;Immortus;Ant-Man and the Wasp: Quantumania;Unnafiliated
+138;Ingrid;Black Widow;Unnafiliated
+139;Iron Man;Iron Man;Avengers
+139;Iron Man;The Incredible Hulk;Avengers
+139;Iron Man;Iron Man 2;Avengers
+139;Iron Man;Marvel’s The Avengers;Avengers
+139;Iron Man;Iron Man 3;Avengers
+139;Iron Man;Avengers: Age of Ultron;Avengers
+139;Iron Man;Captain America: Civil War;Avengers
+139;Iron Man;Spider-Man: Homecoming;Avengers
+139;Iron Man;Avengers: Infinity War;Avengers
+139;Iron Man;Avengers: Endgame;Avengers
+139;Iron Man;Spider-Man: Far From Home;Avengers
+140;Ivan Vanko;Iron Man 2;Unnafiliated
+141;J. Jonah Jameson;Spider-Man: Far From Home;Unnafiliated
+141;J. Jonah Jameson;Spider-Man: No Way Home;Unnafiliated
+142;J.A.R.V.I.S.;Iron Man;Unnafiliated
+142;J.A.R.V.I.S.;Iron Man 2;Unnafiliated
+142;J.A.R.V.I.S.;Marvel’s The Avengers;Unnafiliated
+142;J.A.R.V.I.S.;Iron Man 3;Unnafiliated
+142;J.A.R.V.I.S.;Avengers: Age of Ultron;Unnafiliated
+143;Jack Rollins;Captain America: The Winter Soldier;Unnafiliated
+143;Jack Rollins;Avengers: Endgame;Unnafiliated
+144;Jack Taggert;Iron Man 3;Unnafiliated
+145;Jacques Dernier;Captain America: The First Avenger;Howling Commandos
+146;Jademurai;Thor: Love and Thunder;Unnafiliated
+147;James Montgomery Falsworth;Captain America: The First Avenger;Howling Commandos
+148;Janet van Dyne;Ant-Man and the Wasp;Unnafiliated
+148;Janet van Dyne;Avengers: Endgame;Unnafiliated
+148;Janet van Dyne;Ant-Man and the Wasp: Quantumania;Unnafiliated
+149;Jason Ionello;Spider-Man: Homecoming;Unnafiliated
+149;Jason Ionello;Spider-Man: Far From Home;Unnafiliated
+150;Jasper Sitwell;Thor;Unnafiliated
+150;Jasper Sitwell;Captain America: The Winter Soldier;Unnafiliated
+150;Jasper Sitwell;Avengers: Endgame;Unnafiliated
+151;Jentorra;Ant-Man and the Wasp: Quantumania;Unnafiliated
+152;Jim Morita;Captain America: The First Avenger;Howling Commandos
+153;Jim Paxton;Ant-Man;Unnafiliated
+153;Jim Paxton;Ant-Man and the Wasp;Unnafiliated
+154;Jimmy Woo;Ant-Man and the Wasp;Unnafiliated
+154;Jimmy Woo;Ant-Man and the Wasp: Quantumania;Unnafiliated
+155;Jon Jon;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+156;Jonathan Pangborn;Doctor Strange;Unnafiliated
+157;Julius Dell;Spider-Man: Far From Home;Unnafiliated
+157;Julius Dell;Spider-Man: No Way Home;Unnafiliated
+158;Justin Hammer;Iron Man 2;Unnafiliated
+159;Kaecilius;Doctor Strange;Unnafiliated
+160;Kang the Conqueror;Ant-Man and the Wasp: Quantumania;Unnafiliated
+161;Karen;Spider-Man: Homecoming;Unnafiliated
+162;Karl Mordo;Doctor Strange;Unnafiliated
+162;Karl Mordo;Doctor Strange in the Multiverse of Madness;Unnafiliated
+163;Karun Patel;Eternals;Unnafiliated
+164;Katy;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+165;Killmonger;Black Panther;Guardians of the Multiverse
+165;Killmonger;Black Panther: Wakanda Forever;Guardians of the Multiverse
+166;Kingo;Eternals;Unnafiliated
+167;Korath;Guardians of the Galaxy;Starforce
+167;Korath;Captain Marvel;Starforce
+168;Korg;Thor: Ragnarok;Revengers
+168;Korg;Avengers: Endgame;Revengers
+168;Korg;Thor: Love and Thunder;Revengers
+169;Kraglin Obfonteri;Guardians of the Galaxy;Unnafiliated
+169;Kraglin Obfonteri;Guardians of the Galaxy Vol. 2;Unnafiliated
+169;Kraglin Obfonteri;Avengers: Endgame;Unnafiliated
+169;Kraglin Obfonteri;Thor: Love and Thunder;Unnafiliated
+170;Kro;Eternals;Unnafiliated
+171;Krylar;Ant-Man and the Wasp: Quantumania;Unnafiliated
+172;Kurse;Thor: The Dark World;Unnafiliated
+173;Kurt;Ant-Man;Unnafiliated
+173;Kurt;Ant-Man and the Wasp;Unnafiliated
+174;Laufey;Thor;Unnafiliated
+175;Laura Barton;Avengers: Age of Ultron;Unnafiliated
+175;Laura Barton;Avengers: Endgame;Unnafiliated
+176;Leonard Samson;The Incredible Hulk;Unnafiliated
+177;Lerato;Black Widow;Unnafiliated
+178;Lila Barton;Avengers: Age of Ultron;Unnafiliated
+178;Lila Barton;Avengers: Endgame;Unnafiliated
+179;Linda;Black Panther;Unnafiliated
+180;List;Captain America: The Winter Soldier;Unnafiliated
+181;Liz;Spider-Man: Homecoming;Unnafiliated
+182;Lizard;Spider-Man: No Way Home;Unnafiliated
+183;Loki;Thor;Revengers
+183;Loki;Thor: The Dark World;Revengers
+183;Loki;Thor: Ragnarok;Revengers
+183;Loki;Avengers: Infinity War;Revengers
+183;Loki;Avengers: Endgame;Revengers
+183;Loki;Thor: Love and Thunder;Revengers
+183;Loki;Ant-Man and the Wasp: Quantumania;Revengers
+184;Love;Thor: Love and Thunder;Unnafiliated
+185;Lucian Aster;Doctor Strange;Unnafiliated
+186;Luis;Ant-Man;Unnafiliated
+186;Luis;Ant-Man and the Wasp;Unnafiliated
+187;M’Baku;Black Panther;Unnafiliated
+187;M’Baku;Avengers: Infinity War;Unnafiliated
+187;M’Baku;Avengers: Endgame;Unnafiliated
+187;M’Baku;Black Panther: Wakanda Forever;Unnafiliated
+188;Mac Gargan;Spider-Man: Homecoming;Unnafiliated
+189;Maggie;Ant-Man;Unnafiliated
+189;Maggie;Ant-Man and the Wasp;Unnafiliated
+190;Mainframe;Guardians of the Galaxy Vol. 2;Unnafiliated
+191;Makkari;Eternals;Unnafiliated
+192;Malekith;Thor: The Dark World;Unnafiliated
+193;Mantis;Guardians of the Galaxy Vol. 2;Guardians of the Galaxy
+193;Mantis;Avengers: Infinity War;Guardians of the Galaxy
+193;Mantis;Avengers: Endgame;Guardians of the Galaxy
+193;Mantis;Thor: Love and Thunder;Guardians of the Galaxy
+194;Mar-Vell;Captain Marvel;Unnafiliated
+195;Maria Hill;Marvel’s The Avengers;Unnafiliated
+195;Maria Hill;Captain America: The Winter Soldier;Unnafiliated
+195;Maria Hill;Avengers: Age of Ultron;Unnafiliated
+195;Maria Hill;Avengers: Infinity War;Unnafiliated
+195;Maria Hill;Avengers: Endgame;Unnafiliated
+195;Maria Hill;Spider-Man: Far From Home;Unnafiliated
+196;Maria Rambeau;Captain Marvel;Unnafiliated
+197;Maria Stark;Captain America: Civil War;Unnafiliated
+198;Martinex;Guardians of the Galaxy Vol. 2;Unnafiliated
+199;Matthew Ellis;Iron Man 3;Unnafiliated
+200;May Parker;Captain America: Civil War;Unnafiliated
+200;May Parker;Spider-Man: Homecoming;Unnafiliated
+200;May Parker;Avengers: Endgame;Unnafiliated
+200;May Parker;Spider-Man: Far From Home;Unnafiliated
+200;May Parker;Spider-Man: No Way Home;Unnafiliated
+201;Maya Hansen;Iron Man 3;A.I.M.
+202;Meredith Quill;Guardians of the Galaxy;Unnafiliated
+202;Meredith Quill;Guardians of the Galaxy Vol. 2;Unnafiliated
+203;Michelle “MJ”;Spider-Man: Homecoming;Unnafiliated
+203;Michelle “MJ”;Spider-Man: Far From Home;Unnafiliated
+203;Michelle “MJ”;Spider-Man: No Way Home;Unnafiliated
+204;Mighty Thor;Thor;Unnafiliated
+204;Mighty Thor;Thor: The Dark World;Unnafiliated
+204;Mighty Thor;Avengers: Endgame;Unnafiliated
+204;Mighty Thor;Thor: Love and Thunder;Unnafiliated
+205;Minerva;Thor: Love and Thunder;Unnafiliated
+206;Minn-Erva;Captain Marvel;Starforce
+207;Miriam Sharpe;Captain America: Civil War;Unnafiliated
+208;Mitchell Carson;Ant-Man;Unnafiliated
+209;Mobius M. Mobius;Ant-Man and the Wasp: Quantumania;Unnafiliated
+210;Monica Rambeau;Captain Marvel;Unnafiliated
+211;Morgan Stark;Avengers: Endgame;Unnafiliated
+212;Mr. Cobbwell;Spider-Man: Homecoming;Unnafiliated
+213;Mr. Delmar;Spider-Man: Homecoming;Unnafiliated
+214;Mr. Hapgood;Spider-Man: Homecoming;Unnafiliated
+215;Mrs. Chen;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+216;Ms. Warren;Spider-Man: Homecoming;Unnafiliated
+217;Mysterio;Spider-Man: Far From Home;Unnafiliated
+217;Mysterio;Spider-Man: No Way Home;Unnafiliated
+218;N’Jobu;Black Panther;Unnafiliated
+219;Nakia;Black Panther;Unnafiliated
+219;Nakia;Black Panther: Wakanda Forever;Unnafiliated
+220;Namor;Black Panther: Wakanda Forever;Unnafiliated
+221;Namora;Black Panther: Wakanda Forever;Unnafiliated
+222;Narblik;Guardians of the Galaxy Vol. 2;Unnafiliated
+223;Nathaniel Barton;Avengers: Endgame;Unnafiliated
+224;Nebula;Guardians of the Galaxy;Children of Thanos
+224;Nebula;Guardians of the Galaxy Vol. 2;Children of Thanos
+224;Nebula;Avengers: Infinity War;Children of Thanos
+224;Nebula;Avengers: Endgame;Children of Thanos
+224;Nebula;Thor: Love and Thunder;Children of Thanos
+225;Ned Leeds;Spider-Man: Homecoming;Unnafiliated
+225;Ned Leeds;Avengers: Infinity War;Unnafiliated
+225;Ned Leeds;Avengers: Endgame;Unnafiliated
+225;Ned Leeds;Spider-Man: Far From Home;Unnafiliated
+225;Ned Leeds;Spider-Man: No Way Home;Unnafiliated
+226;Nick Fury;Iron Man;Unnafiliated
+226;Nick Fury;Iron Man 2;Unnafiliated
+226;Nick Fury;Thor;Unnafiliated
+226;Nick Fury;Captain America: The First Avenger;Unnafiliated
+226;Nick Fury;Marvel’s The Avengers;Unnafiliated
+226;Nick Fury;Captain America: The Winter Soldier;Unnafiliated
+226;Nick Fury;Avengers: Age of Ultron;Unnafiliated
+226;Nick Fury;Avengers: Infinity War;Unnafiliated
+226;Nick Fury;Captain Marvel;Unnafiliated
+226;Nick Fury;Avengers: Endgame;Unnafiliated
+226;Nick Fury;Spider-Man: Far From Home;Unnafiliated
+227;Nicodemus West;Doctor Strange;Unnafiliated
+227;Nicodemus West;Doctor Strange in the Multiverse of Madness;Unnafiliated
+228;Nomble;Black Panther;Unnafiliated
+228;Nomble;Avengers: Infinity War;Unnafiliated
+229;Nova Prime;Guardians of the Galaxy;Unnafiliated
+230;Obadiah Stane;Iron Man;Unnafiliated
+230;Obadiah Stane;Spider-Man: Far From Home;Unnafiliated
+231;Oblo;Guardians of the Galaxy Vol. 2;Unnafiliated
+232;Odin;Thor;Unnafiliated
+232;Odin;Thor: The Dark World;Unnafiliated
+232;Odin;Thor: Ragnarok;Unnafiliated
+232;Odin;Thor: Love and Thunder;Unnafiliated
+233;Okoye;Black Panther;Dora Milaje
+233;Okoye;Avengers: Infinity War;Dora Milaje
+233;Okoye;Avengers: Endgame;Dora Milaje
+233;Okoye;Black Panther: Wakanda Forever;Dora Milaje
+234;Oksana;Black Widow;Unnafiliated
+235;P. Cleary;Spider-Man: No Way Home;Unnafiliated
+42;Peggy Carter;Captain America: The First Avenger;Guardians of the Multiverse
+42;Peggy Carter;Captain America: The Winter Soldier;Guardians of the Multiverse
+42;Peggy Carter;Avengers: Age of Ultron;Guardians of the Multiverse
+42;Peggy Carter;Ant-Man;Guardians of the Multiverse
+42;Peggy Carter;Avengers: Endgame;Guardians of the Multiverse
+236;Phastos;Eternals;Unnafiliated
+237;Phil Coulson;Iron Man;Unnafiliated
+237;Phil Coulson;Iron Man 2;Unnafiliated
+237;Phil Coulson;Thor;Unnafiliated
+237;Phil Coulson;Marvel’s The Avengers;Unnafiliated
+237;Phil Coulson;Captain Marvel;Unnafiliated
+238;Pietro Maximoff;Captain America: The Winter Soldier;Avengers
+239;Pip the Troll;Eternals;Unnafiliated
+240;Principal Morita;Spider-Man: Homecoming;Unnafiliated
+241;Proxima Midnight;Avengers: Infinity War;Children of Thanos
+241;Proxima Midnight;Avengers: Endgame;Children of Thanos
+242;Quaz;Ant-Man and the Wasp: Quantumania;Unnafiliated
+243;Rama-Tut;Ant-Man and the Wasp: Quantumania;Unnafiliated
+244;Ramonda;Black Panther;Unnafiliated
+244;Ramonda;Avengers: Endgame;Unnafiliated
+244;Ramonda;Black Panther: Wakanda Forever;Unnafiliated
+245;Rapu;Thor: Love and Thunder;Unnafiliated
+246;Raza;Iron Man;Unnafiliated
+247;Razor Fist;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+248;Red Guardian;Black Widow;Unnafiliated
+249;Red Skull;Captain America: The First Avenger;Unnafiliated
+249;Red Skull;Avengers: Infinity War;Unnafiliated
+249;Red Skull;Avengers: Endgame;Unnafiliated
+250;Reed Richards;Doctor Strange in the Multiverse of Madness;Unnafiliated
+251;Retch;Guardians of the Galaxy Vol. 2;Unnafiliated
+252;Rhomann Dey;Guardians of the Galaxy;Unnafiliated
+253;Richard;Thor: The Dark World;Unnafiliated
+254;Rick Mason;Black Widow;Unnafiliated
+255;Rintrah;Doctor Strange in the Multiverse of Madness;Unnafiliated
+256;Riri Williams;Black Panther: Wakanda Forever;Unnafiliated
+257;Rocket;Guardians of the Galaxy;Guardians of the Galaxy
+257;Rocket;Guardians of the Galaxy Vol. 2;Guardians of the Galaxy
+257;Rocket;Avengers: Infinity War;Guardians of the Galaxy
+257;Rocket;Avengers: Endgame;Guardians of the Galaxy
+257;Rocket;Thor: Love and Thunder;Guardians of the Galaxy
+258;Rodriguez;Iron Man 3;Unnafiliated
+259;Roger Harrington;The Incredible Hulk;Unnafiliated
+259;Roger Harrington;Spider-Man: Homecoming;Unnafiliated
+259;Roger Harrington;Spider-Man: Far From Home;Unnafiliated
+259;Roger Harrington;Spider-Man: No Way Home;Unnafiliated
+260;Ronan the Accuser;Guardians of the Galaxy;Unnafiliated
+260;Ronan the Accuser;Captain Marvel;Unnafiliated
+261;Ruihua;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+262;Sally;Spider-Man: Homecoming;Unnafiliated
+262;Sally;Avengers: Infinity War;Unnafiliated
+263;Samuel Sterns;The Incredible Hulk;Unnafiliated
+264;Sandman;Spider-Man: No Way Home;Unnafiliated
+265;Sara;Doctor Strange in the Multiverse of Madness;Unnafiliated
+266;Scarlet Witch;Captain America: The Winter Soldier;Unnafiliated
+266;Scarlet Witch;Captain America: Civil War;Unnafiliated
+266;Scarlet Witch;Avengers: Infinity War;Unnafiliated
+266;Scarlet Witch;Avengers: Endgame;Unnafiliated
+266;Scarlet Witch;Doctor Strange in the Multiverse of Madness;Unnafiliated
+267;Scott Lang;Ant-Man;Unnafiliated
+268;Scrote;Guardians of the Galaxy Vol. 2;Unnafiliated
+269;Sersi;Eternals;Unnafiliated
+270;Seymour;Spider-Man: Homecoming;Unnafiliated
+271;Sharon Carter;Captain America: Civil War;Unnafiliated
+272;Shaun;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+273;Shocker;Spider-Man: Homecoming;Unnafiliated
+274;Shuri;Black Panther;Unnafiliated
+274;Shuri;Avengers: Infinity War;Unnafiliated
+274;Shuri;Avengers: Endgame;Unnafiliated
+275;Sif;Thor;Unnafiliated
+275;Sif;Thor: The Dark World;Unnafiliated
+275;Sif;Thor: Love and Thunder;Unnafiliated
+276;Sinister Strange;Doctor Strange in the Multiverse of Madness;Unnafiliated
+277;Skurge;Thor: Ragnarok;Unnafiliated
+278;Smitty;Black Panther: Wakanda Forever;Unnafiliated
+279;Sonny Burch;Ant-Man and the Wasp;Unnafiliated
+280;Soren;Captain Marvel;Unnafiliated
+280;Soren;Spider-Man: Far From Home;Unnafiliated
+281;Spider-Man;Captain America: Civil War;Unnafiliated
+281;Spider-Man;Spider-Man: Homecoming;Unnafiliated
+281;Spider-Man;Avengers: Infinity War;Unnafiliated
+281;Spider-Man;Avengers: Endgame;Unnafiliated
+281;Spider-Man;Spider-Man: Far From Home;Unnafiliated
+281;Spider-Man;Spider-Man: No Way Home;Unnafiliated
+282;Sprite;Eternals;Unnafiliated
+283;Stakar Ogord;Guardians of the Galaxy Vol. 2;Unnafiliated
+284;Star-Lord;Guardians of the Galaxy;Guardians of the Galaxy
+284;Star-Lord;Guardians of the Galaxy Vol. 2;Guardians of the Galaxy
+284;Star-Lord;Avengers: Infinity War;Guardians of the Galaxy
+284;Star-Lord;Avengers: Endgame;Guardians of the Galaxy
+284;Star-Lord;Thor: Love and Thunder;Guardians of the Galaxy
+285;Starfox;Eternals;Unnafiliated
+286;Stephen Strange;Doctor Strange;Unnafiliated
+286;Stephen Strange;Thor: Ragnarok;Unnafiliated
+286;Stephen Strange;Avengers: Infinity War;Unnafiliated
+286;Stephen Strange;Avengers: Endgame;Unnafiliated
+286;Stephen Strange;Spider-Man: No Way Home;Unnafiliated
+286;Stephen Strange;Doctor Strange in the Multiverse of Madness;Unnafiliated
+287;Stern;Iron Man 2;Unnafiliated
+287;Stern;Captain America: The Winter Soldier;Unnafiliated
+288;Supreme Intelligence;Captain Marvel;Unnafiliated
+289;Supreme Strange;Doctor Strange in the Multiverse of Madness;Unnafiliated
+290;Surtur;Thor: Ragnarok;Unnafiliated
+291;T’Chaka;Captain America: Civil War;Guardians of the Multiverse
+291;T’Chaka;Black Panther;Avengers
+292;T’Challa;Black Panther: Wakanda Forever;Guardians of the Multiverse
+293;Talos;Captain Marvel;Unnafiliated
+293;Talos;Spider-Man: Far From Home;Unnafiliated
+294;Taserface;Guardians of the Galaxy Vol. 2;Unnafiliated
+295;Taskmaster;Black Widow;Unnafiliated
+296;"Thaddeus ""Thunderbolt"" Ross";The Incredible Hulk;Unnafiliated
+296;"Thaddeus ""Thunderbolt"" Ross";Captain America: Civil War;Unnafiliated
+296;"Thaddeus ""Thunderbolt"" Ross";Avengers: Infinity War;Unnafiliated
+296;"Thaddeus ""Thunderbolt"" Ross";Avengers: Endgame;Unnafiliated
+296;"Thaddeus ""Thunderbolt"" Ross";Black Widow;Unnafiliated
+297;Thanos;Marvel’s The Avengers;Unnafiliated
+297;Thanos;Guardians of the Galaxy;Unnafiliated
+297;Thanos;Avengers: Age of Ultron;Unnafiliated
+297;Thanos;Avengers: Infinity War;Unnafiliated
+297;Thanos;Avengers: Endgame;Unnafiliated
+298;The Broker;Guardians of the Galaxy;Unnafiliated
+299;The Collector;Thor: The Dark World;Unnafiliated
+299;The Collector;Avengers: Infinity War;Unnafiliated
+300;The Other;Marvel’s The Avengers;Unnafiliated
+300;The Other;Guardians of the Galaxy;Unnafiliated
+301;Thena;Eternals;Unnafiliated
+302;Thor;Thor;Avengers
+302;Thor;Thor: The Dark World;Avengers
+302;Thor;Avengers: Age of Ultron;Avengers
+302;Thor;Doctor Strange;Avengers
+302;Thor;Thor: Ragnarok;Avengers
+302;Thor;Avengers: Infinity War;Avengers
+302;Thor;Avengers: Endgame;Avengers
+302;Thor;Thor: Love and Thunder;Avengers
+303;"Timothy ""Dum Dum""Dugan";Captain America: The First Avenger;Howling Commandos
+304;Tina Minoru;Doctor Strange;Unnafiliated
+305;Tinkerer;Spider-Man: Homecoming;Unnafiliated
+306;Tiny;Spider-Man: Homecoming;Unnafiliated
+306;Tiny;Avengers: Infinity War;Unnafiliated
+307;Tommy Maximoff;Doctor Strange in the Multiverse of Madness;Unnafiliated
+308;Topaz;Thor: Ragnarok;Unnafiliated
+309;Toussaint T’Challa;Black Panther: Wakanda Forever;Unnafiliated
+310;Trevor Slattery;Iron Man 3;A.I.M.
+310;Trevor Slattery;Shang-Chi and the Legend of the Ten Rings;A.I.M.
+311;Tullk;Guardians of the Galaxy Vol. 2;Unnafiliated
+312;Tyr;Thor: The Dark World;Unnafiliated
+313;Ultron;Avengers: Age of Ultron;Unnafiliated
+313;Ultron;Doctor Strange in the Multiverse of Madness;Unnafiliated
+314;Ulysses Klaue;Avengers: Age of Ultron;Unnafiliated
+314;Ulysses Klaue;Black Panther;Unnafiliated
+315;Ursa;Black Widow;Unnafiliated
+316;Uzman;Ant-Man and the Wasp;Unnafiliated
+317;Valkyrie;Thor: Ragnarok;Revengers
+317;Valkyrie;Avengers: Endgame;Revengers
+317;Valkyrie;Thor: Love and Thunder;Revengers
+318;Veb;Ant-Man and the Wasp: Quantumania;Unnafiliated
+319;Venom;Spider-Man: No Way Home;Unnafiliated
+320;Victor Timely;Ant-Man and the Wasp: Quantumania;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Iron Man;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Iron Man 2;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Marvel’s The Avengers;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Iron Man 3;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Spider-Man: Homecoming;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Avengers: Infinity War;Unnafiliated
+321;"Virginia ""Pepper"" Potts";Avengers: Endgame;Unnafiliated
+322;Vision;Avengers: Age of Ultron;Avengers
+322;Vision;Captain America: Civil War;Avengers
+322;Vision;Avengers: Infinity War;Avengers
+323;Volstagg;Thor;Warriors Three
+323;Volstagg;Thor: The Dark World;Warriors Three
+323;Volstagg;Thor: Ragnarok;Warriors Three
+323;Volstagg;Thor: Love and Thunder;Warriors Three
+324;Vulture;Spider-Man: Homecoming;Unnafiliated
+325;W’Kabi;Black Panther;Unnafiliated
+326;Wanda Maximoff;Doctor Strange in the Multiverse of Madness;Avengers
+327;War Machine;Iron Man;Avengers
+327;War Machine;Iron Man 2;Avengers
+327;War Machine;Iron Man 3;Avengers
+327;War Machine;Avengers: Age of Ultron;Avengers
+327;War Machine;Captain America: Civil War;Avengers
+327;War Machine;Avengers: Infinity War;Avengers
+327;War Machine;Captain Marvel;Avengers
+327;War Machine;Avengers: Endgame;Avengers
+328;Wasp;Ant-Man;Unnafiliated
+328;Wasp;Ant-Man and the Wasp;Unnafiliated
+328;Wasp;Avengers: Endgame;Unnafiliated
+328;Wasp;Ant-Man and the Wasp: Quantumania;Unnafiliated
+329;William Ginter Riva;Iron Man;Unnafiliated
+329;William Ginter Riva;Spider-Man: Far From Home;Unnafiliated
+330;Winter Soldier;Captain America: The First Avenger;Unnafiliated
+330;Winter Soldier;Captain America: The Winter Soldier;Unnafiliated
+330;Winter Soldier;Ant-Man;Unnafiliated
+330;Winter Soldier;Captain America: Civil War;Unnafiliated
+330;Winter Soldier;Black Panther;Unnafiliated
+330;Winter Soldier;Avengers: Infinity War;Unnafiliated
+330;Winter Soldier;Avengers: Endgame;Unnafiliated
+331;Wolfgang von Strucker;Captain America: The Winter Soldier;Unnafiliated
+332;Wong;Doctor Strange;Unnafiliated
+332;Wong;Avengers: Infinity War;Unnafiliated
+332;Wong;Avengers: Endgame;Unnafiliated
+332;Wong;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+332;Wong;Spider-Man: No Way Home;Unnafiliated
+332;Wong;Doctor Strange in the Multiverse of Madness;Unnafiliated
+333;Wu;Iron Man 3;Unnafiliated
+334;Xoliswa;Black Panther;Dora Milaje
+335;Xu Wenwu;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+336;Xu Xialing;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+337;Yakan;Thor: Love and Thunder;Unnafiliated
+338;Yama;Black Panther;Unnafiliated
+338;Yama;Avengers: Infinity War;Unnafiliated
+339;Yellowjacket;Ant-Man;Unnafiliated
+340;Ying Li;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+341;Ying Nan;Shang-Chi and the Legend of the Ten Rings;Unnafiliated
+342;Yon-Rogg;Captain Marvel;Starforce
+343;Yondu Udonta;Guardians of the Galaxy;Guardians of the Galaxy
+343;Yondu Udonta;Guardians of the Galaxy Vol. 2;Guardians of the Galaxy
+344;Zeus;Thor: Love and Thunder;Unnafiliated
+345;Zuri;Black Panther;Unnafiliated

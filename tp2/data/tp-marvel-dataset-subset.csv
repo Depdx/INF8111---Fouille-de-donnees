@@ -1,0 +1,66 @@
+﻿Hero_id;Hero_name;Movie;Affiliation
+0;Ant-Man;Ant-Man;Avengers
+0;Ant-Man;Ant-Man and the Wasp;Avengers
+0;Ant-Man;Ant-Man and the Wasp: Quantumania;Avengers
+0;Ant-Man;Avengers: Endgame;Avengers
+0;Ant-Man;Captain America: Civil War;Avengers
+1;Betty Ross;The Incredible Hulk;Unnafiliated
+2;Black Panther;Avengers: Endgame;Unnafiliated
+2;Black Panther;Avengers: Infinity War;Unnafiliated
+2;Black Panther;Black Panther;Unnafiliated
+2;Black Panther;Black Panther: Wakanda Forever;Unnafiliated
+2;Black Panther;Captain America: Civil War;Unnafiliated
+3;Captain America;Ant-Man;Avengers
+3;Captain America;Avengers: Age of Ultron;Avengers
+3;Captain America;Avengers: Endgame;Avengers
+3;Captain America;Avengers: Infinity War;Avengers
+3;Captain America;Captain America: Civil War;Avengers
+3;Captain America;Captain America: The First Avenger;Avengers
+3;Captain America;Captain America: The Winter Soldier;Avengers
+3;Captain America;Captain Marvel;Avengers
+3;Captain America;Spider-Man: Homecoming;Avengers
+3;Captain America;Thor: The Dark World;Avengers
+4;Hulk;Avengers: Age of Ultron;Avengers
+4;Hulk;Avengers: Endgame;Avengers
+4;Hulk;Avengers: Infinity War;Avengers
+4;Hulk;Captain Marvel;Avengers
+4;Hulk;Iron Man 3;Avengers
+4;Hulk;Shang-Chi and the Legend of the Ten Rings;Avengers
+4;Hulk;The Incredible Hulk;Avengers
+4;Hulk;Thor: Ragnarok;Avengers
+5;Leonard Samson;The Incredible Hulk;Unnafiliated
+6;Maria Hill;Avengers: Age of Ultron;Unnafiliated
+6;Maria Hill;Avengers: Endgame;Unnafiliated
+6;Maria Hill;Avengers: Infinity War;Unnafiliated
+6;Maria Hill;Captain America: The Winter Soldier;Unnafiliated
+6;Maria Hill;Marvel’s The Avengers;Unnafiliated
+6;Maria Hill;Spider-Man: Far From Home;Unnafiliated
+7;Roger Harrington;Spider-Man: Far From Home;Unnafiliated
+7;Roger Harrington;Spider-Man: Homecoming;Unnafiliated
+7;Roger Harrington;Spider-Man: No Way Home;Unnafiliated
+7;Roger Harrington;The Incredible Hulk;Unnafiliated
+8;Scarlet Witch;Avengers: Endgame;Unnafiliated
+8;Scarlet Witch;Avengers: Infinity War;Unnafiliated
+8;Scarlet Witch;Captain America: Civil War;Unnafiliated
+8;Scarlet Witch;Captain America: The Winter Soldier;Unnafiliated
+8;Scarlet Witch;Doctor Strange in the Multiverse of Madness;Unnafiliated
+9;Shuri;Avengers: Endgame;Unnafiliated
+9;Shuri;Avengers: Infinity War;Unnafiliated
+9;Shuri;Black Panther;Unnafiliated
+10;Stern;Captain America: The Winter Soldier;Unnafiliated
+10;Stern;Iron Man 2;Unnafiliated
+11;Ulysses Klaue;Avengers: Age of Ultron;Unnafiliated
+11;Ulysses Klaue;Black Panther;Unnafiliated
+12;Wasp;Ant-Man;Unnafiliated
+12;Wasp;Ant-Man and the Wasp;Unnafiliated
+12;Wasp;Ant-Man and the Wasp: Quantumania;Unnafiliated
+12;Wasp;Avengers: Endgame;Unnafiliated
+13;Winter Soldier;Ant-Man;Unnafiliated
+13;Winter Soldier;Avengers: Endgame;Unnafiliated
+13;Winter Soldier;Avengers: Infinity War;Unnafiliated
+13;Winter Soldier;Black Panther;Unnafiliated
+14;Xoliswa;Black Panther;Dora Milaje
+15;Zuri;Black Panther;Unnafiliated
+16;Nakia;Black Panther: Wakanda Forever;Unnafiliated
+17;Sinister Strange;Doctor Strange in the Multiverse of Madness;Unnafiliated
+18;Peggy Carter;Doctor Strange in the Multiverse of Madness;Guardians of the Multiverse
